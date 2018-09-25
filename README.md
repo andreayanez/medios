@@ -7,4 +7,4 @@ Indice de los ejercicios de la clase diseño en medios interactivos de Andrea Y�
 3. [Flipbook](https://andreayanez.github.io/mediosInteractivos/03)
 4. [Herramienta de dibujo](https://andreayanez.github.io/mediosInteractivos/04)
 5. [Reloj Conceptual](https://andreayanez.github.io/mediosInteractivos/05)
-6. [sonido](https://andreayanez.github.io/mediosInteractivos/06)
+6. [Canción](https://andreayanez.github.io/mediosInteractivos/06)
