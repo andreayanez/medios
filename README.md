@@ -10,3 +10,4 @@ Indice de los ejercicios de la clase diseño en medios interactivos de Andrea Y�
 6. [Canción Stay With You](https://andreayanez.github.io/mediosInteractivos/06)
 7. [Ecosistema](https://andreayanez.github.io/mediosInteractivos/07)
 8. [Ecosistema mouse](https://andreayanez.github.io/mediosInteractivos/08)
+9. [Juego](https://andreayanez.github.io/mediosInteractivos/09)
