@@ -420,7 +420,7 @@ function mousePressed() {
 
   //NIVEL 6 : astronauta a la luna
   if (estado == 6) {
-    if (dist(x1, y1, width / 4 - 50, height / 4 + 200) < 100) {
+    if (dist(x1, y1, width / 4 - 50, height / 4 + 200) < 200) {
       estado = 7; //PASA A NIVEL 7
     }
   }
