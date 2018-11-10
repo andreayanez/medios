@@ -12,3 +12,4 @@ Indice de los ejercicios de la clase dise√±o en medios interactivos de Andrea Y√
 8. [Ecosistema mouse](https://andreayanez.github.io/mediosInteractivos/08)
 9. [Juego](https://andreayanez.github.io/mediosInteractivos/09)
 10. [Avances Juego](https://andreayanez.github.io/mediosInteractivos/10)
+11. [Juego Adelanto](https://andreayanez.github.io/mediosInteractivos/11)
