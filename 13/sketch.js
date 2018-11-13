@@ -1184,7 +1184,7 @@ function mouseDragged() {
 
 
 //funcion que se llama cuando se hace clic
-function mouseClicked() {
+function touchStarted() {
 
   //el tiempo del segundo clic se corre a la segunda posicion
   tiempo[0] = tiempo[1];
