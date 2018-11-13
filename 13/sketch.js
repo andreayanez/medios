@@ -1191,11 +1191,3 @@ function mouseClicked() {
   //se guarda el tiempo del primer clic en el arreglo
   tiempo[1] = millis();
 }
-
-
-
-function touchMoved() {
-  ellipse(mouseX, mouseY, 5, 5);
-  // prevent default
-  return false;
-}
