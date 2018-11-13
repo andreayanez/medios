@@ -15,4 +15,4 @@ Indice de los ejercicios de la clase dise√±o en medios interactivos de Andrea Y√
 11. [Juego Adelanto](https://andreayanez.github.io/mediosInteractivos/11)
 12. [THE IMPOSSIBLE GAME](https://andreayanez.github.io/mediosInteractivos/12)
 13. [FINAL THE IMPOSSIBLE GAME](https://andreayanez.github.io/mediosInteractivos/13)
-[     ///////LINK P5JS EDITOR:](https://editor.p5js.org/andreyanez/full/SysRkKG3Q)
+14. [LINK P5JS EDITOR:](https://editor.p5js.org/andreyanez/full/SysRkKG3Q)
