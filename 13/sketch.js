@@ -1076,14 +1076,21 @@ function mousePressed() {
   
   
   
+  
 //nivel 17 touch 5 fingers
   else if (estado == 17) {
     //recorre todos los puntos en los que se esta tocando la
     //pantalla y revisa su distancia con respecto al boton
+    
+    if(touches.lenght ==5){
+       estado = 18;
+    }
+    /*/
     for (var j = 5; j < touches.length; j++) {
       estado = 18;
-    }
+    }/*/
   }
+  
   
   
   
