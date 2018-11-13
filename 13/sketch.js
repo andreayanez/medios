@@ -1176,7 +1176,7 @@ function mouseDragged() {
     x2 = mouseX;
     y2 = mouseY;
   }
-  return false;
+  else {return false;}
 }
 
 
