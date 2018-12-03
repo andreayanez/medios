@@ -8,6 +8,7 @@ Indice de los ejercicios de la clase diseño en medios interactivos de Andrea Y�
 4. [Herramienta de dibujo](https://andreayanez.github.io/mediosInteractivos/04)
 5. [Reloj Conceptual](https://andreayanez.github.io/mediosInteractivos/05)
 6. [Canción Stay With You](https://andreayanez.github.io/mediosInteractivos/06)
+6a. [Canción Stay With You](https://editor.p5js.org/andreyanez/full/r1u4lEhKm)
 7. [Ecosistema](https://andreayanez.github.io/mediosInteractivos/07)
 8. [Ecosistema mouse](https://andreayanez.github.io/mediosInteractivos/08)
 9. [Juego](https://andreayanez.github.io/mediosInteractivos/09)
