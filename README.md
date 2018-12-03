@@ -8,7 +8,6 @@ Indice de los ejercicios de la clase diseño en medios interactivos de Andrea Y�
 4. [Herramienta de dibujo](https://andreayanez.github.io/mediosInteractivos/04)
 5. [Reloj Conceptual](https://andreayanez.github.io/mediosInteractivos/05)
 6. [Canción Stay With You](https://andreayanez.github.io/mediosInteractivos/06)
-6a. [Canción Stay With You](https://editor.p5js.org/andreyanez/full/r1u4lEhKm)
 7. [Ecosistema](https://andreayanez.github.io/mediosInteractivos/07)
 8. [Ecosistema mouse](https://andreayanez.github.io/mediosInteractivos/08)
 9. [Juego](https://andreayanez.github.io/mediosInteractivos/09)
@@ -19,3 +18,4 @@ Indice de los ejercicios de la clase diseño en medios interactivos de Andrea Y�
 14. [Adelanto the impossible game p5js](https://editor.p5js.org/andreyanez/full/SysRkKG3Q)
 15. [ENTREGA FINAL: JUEGO THE IMPOSSIBLE GAME](https://andreayanez.github.io/mediosInteractivos/14)
 14. [ENTREGA FINAL: LINK EDITOR P5JS](https://editor.p5js.org/andreyanez/full/B1Ed5M5A7)
+15. [Canción Stay With You Editor](https://editor.p5js.org/andreyanez/full/r1u4lEhKm)
